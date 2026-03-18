@@ -35,9 +35,9 @@ ymcompass_laudo_01.png
 ymcompass_opo_des_01.png
 ```
 
-## ⚠️ Boas Práticas
+## ⚠️ Boas Ações
 - Preferir imagens com tamanho inferior a 2MB  
-- Manter padronização dos nomes  
+- Manter padronização do repositório  
 - Evitar estruturas complexas de pastas  
 
 ## 🚀 Observação
