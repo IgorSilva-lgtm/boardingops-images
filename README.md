@@ -30,13 +30,12 @@ Para garantir consistência:
 
 ### ✔️ Exemplo:
 ```
-cn5_dsh_01.png
-mv_arisditis_opo_des_01.png
+ymcompass_porao_01.png
+ymcompass_opo_des_01.png
 ```
 
 ## ⚠️ Boas Práticas
-- Preferir imagens com tamanho inferior a 500KB  
-- Validar sempre o link RAW antes de utilizar  
+- Preferir imagens com tamanho inferior a 2MB  
 - Manter padronização dos nomes  
 - Evitar estruturas complexas de pastas  
 
