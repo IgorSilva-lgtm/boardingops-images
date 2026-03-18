@@ -31,6 +31,7 @@ Para garantir consistência:
 ### ✔️ Exemplo:
 ```
 ymcompass_porao_01.png
+ymcompass_laudo_01.png
 ymcompass_opo_des_01.png
 ```
 
