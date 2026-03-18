@@ -1,6 +1,6 @@
 # 📊 Power BI Image Repository
 
-Repositório destinado ao armazenamento de imagens utilizadas no dashboard **Operação Embarque**.
+Repositório destinado ao armazenamento de imagens utilizadas no dashboard **Operação Embarque.**
 
 ## 📌 Objetivo
 Centralizar e disponibilizar imagens de forma pública e estável, permitindo sua integração direta com o Power BI por meio de URLs no formato RAW.
@@ -24,8 +24,8 @@ Esses links devem ser utilizados como **Image URL** no **:contentReference[oaici
 Para garantir consistência:
 
 - Utilizar apenas letras minúsculas  
-- Não utilizar espaços (usar `-` como espaço)
-- Evitar acentos e caracteres especiais (usar `_` como parenteses)
+- Não utilizar espaços (usar `-`  como espaço)
+- Evitar acentos e caracteres especiais (usar `_`  como parenteses)
 - Manter nomes descritivos, únicos e manter o padrão  
 
 ### ✔️ Exemplo:
