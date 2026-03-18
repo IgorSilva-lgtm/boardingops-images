@@ -23,10 +23,10 @@ Esses links devem ser utilizados como **Image URL** no **:contentReference[oaici
 ## ⚙️ Padrão de Nomenclatura
 Para garantir consistência:
 
-- Utilizar letras minúsculas  
-- Não utilizar espaços (usar `_`)  
-- Evitar acentos e caracteres especiais  
-- Manter nomes descritivos e únicos  
+- Utilizar apenas letras minúsculas  
+- Não utilizar espaços (usar `-` como espaço)
+- Evitar acentos e caracteres especiais (usar `_` como parenteses)
+- Manter nomes descritivos, únicos e manter o padrão  
 
 ### ✔️ Exemplo:
 ```
